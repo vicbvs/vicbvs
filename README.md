@@ -19,4 +19,4 @@ Would you like to find me?
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)-->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-borsatto/)](https://www.linkedin.com/in/victor-borsatto/)
-
+[![Gmail Badge](https://img.shields.io/badge/-victor.borsattobh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.borsattobh@gmail.com)](mailto:victor.borsattobh@gmail.com)
