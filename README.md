@@ -1,3 +1,6 @@
+<img width="auto" src="https://github.com/Vicbvs/vicbvs/blob/master/cover.jpg">
+
+
 ### Hi there 👋
 
 <!--
