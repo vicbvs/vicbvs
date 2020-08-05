@@ -1,7 +1,10 @@
 <img width="auto" src="https://github.com/Vicbvs/vicbvs/blob/master/cover.jpg">
 
 
-### Hi there 👋
+### Hi there, I'm Victor Borsatto 👋
+I am passionate about solving problems using programming. 
+<br/>
+I'm a FullStack Developer 💻
 
 <!--
 **Vicbvs/vicbvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
