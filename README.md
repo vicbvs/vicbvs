@@ -4,7 +4,7 @@
 ### Hi there, I'm Victor Borsatto 👋
 I am passionate about solving problems using programming. 
 <br/>
-I'm a FullStack Developer 💻
+💻 | FullStack Developer 
 
 <!--
 **Vicbvs/vicbvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
