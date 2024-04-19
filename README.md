@@ -36,9 +36,9 @@ Would you like to find me?
 <a href="https://www.instagram.com/victor.borsatto">
   <img alt="Victor's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
-<a href="https://open.spotify.com/user/12183327176">
+<!-- <a href="https://open.spotify.com/user/12183327176">
   <img alt="Victor's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
+</a> -->
 </p>
 
 ---------------------------------------------------------------------------
